@@ -1,8 +1,8 @@
-# OLA Data Analytics | Modern Data Engineering GCP Project
+# LYFT Data Analytics | Modern Data Engineering GCP Project
 
 ## Introduction
 
-The goal of this project is to perform data analytics on OLA data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+The goal of this project is to perform data analytics on lyft data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
 <img src="architecture.jpg">
